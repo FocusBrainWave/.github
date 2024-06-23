@@ -1,6 +1,6 @@
 # Hello all 👋
 
-We are BrainWave, a revision website built by students for students. Here you can find a bunch of our code and stuff. Our revision is for students who take the A-Level and GCSE courses and want to boost their revision so you can realy: surf your way to success!
+We are BrainWave, a revision website built by students for students. Here you can find a bunch of our code and stuff. Our revision is for students who take the A-Level and (i)GCSE courses and want to boost their revision so you can really: surf your way to success!
 
 ## Contact
 
